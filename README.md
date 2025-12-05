@@ -127,14 +127,8 @@ Just a guy who loves coding, at times...:
 </table>
 </div>
 
-
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=socrate-01&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    width="450"
-    alt="GitHub Streak - Total Contributions"
-  />
 </div>
+
 
 
 
