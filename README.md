@@ -102,7 +102,7 @@
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/socrate-01?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -110,9 +110,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/socrate-01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=socrate-01&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=socrate-01" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
