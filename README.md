@@ -79,9 +79,8 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=socrate-01&show_icons=true&locale=en&layout=compact" alt="socrate-01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=socrate-01&show_icons=true&locale=en" alt="socrate-01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=socrate-01&" alt="socrate-01" /></p>
+<a> 
+  <a href="https://github.com/socrate-01"><img alt="Seydina's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=socrate-01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
