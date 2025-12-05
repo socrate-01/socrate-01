@@ -133,12 +133,4 @@ Just a guy who loves coding, at times...:
 
 </div>
 
-
-
-# 📨 Contact
-
-<p align="center">
-  <samp>Let’s build something great → <b>contact@seydinamb.xyz</b></samp>
-</p>
-
 <br/>
