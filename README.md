@@ -4,6 +4,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=gray&style=flat" />
+    <img 
+    src="https://img.shields.io/badge/%20Contributions-1694-000000?style=flat-square&logo=github&logoColor=white" 
+    alt="2024 Contributions"
+  />
 </p>
 
 <h1 align="center" style="font-weight: 600;">
@@ -22,13 +26,13 @@
 
 <!-- Social links -->
 <p align="center">
-  <a href="https://linkedin.com/in/al-siam">
+  <a href="https://www.linkedin.com/in/seydinambaye/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Socratis_01">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_alsiam">
+  <a href="https://seydinamb.xyz">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
